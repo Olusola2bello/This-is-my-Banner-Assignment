@@ -1,0 +1,28 @@
+body{
+ margin: 0;    
+}
+
+.banner{
+    background-color: rgb(212, 104, 3);
+    font-weight: bolder;
+    color: black;
+    padding: 30px;
+    text-align: center;
+    }
+ul li{
+color: green;
+list-style: none;
+display: inline;
+padding: 10px;
+cursor: pointer;
+}
+p{
+    color: brown;
+}
+#lastp{
+    color: black;
+}
+.body{
+  background-color: rgb(252, 196, 77);
+  padding:30px 0px;  
+}
